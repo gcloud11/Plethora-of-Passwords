@@ -31,7 +31,7 @@ Acceptance Criteria
 ![Password-image](https://user-images.githubusercontent.com/67169488/87974832-47fbb100-ca90-11ea-8489-41de602a9018.png)
 
 
-## [Try is here!](https://gcloud11.github.io/Plethora-of-Passwords/)
+## [Try it here!](https://gcloud11.github.io/Plethora-of-Passwords/)
 
 
 
