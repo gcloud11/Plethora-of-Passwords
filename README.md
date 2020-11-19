@@ -46,18 +46,9 @@ SSH:
 ```
 git@github.com:gcloud11/Budget-Report.git
 ```
-NPM Install:
-```
-npm i
-```
-Open integrated terminal in server.js file:
-```
-node server.js
-```
-This connects to PORT 8081 for application use. Type in webpage url:
-```
-localhost8081
-```
+Open default browser by right-clicking on the index.html file and select "open in default browser". Application will render.
+Follow the steps above.
+
 
 
 ![Password-image](https://user-images.githubusercontent.com/67169488/87974832-47fbb100-ca90-11ea-8489-41de602a9018.png)
