@@ -9,7 +9,7 @@ This password application generates a random password based on user-selected cri
 ## Technologies 
 
 * [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) - Hypertext Markup Language
-* [JavaScript](https://expressjs.com/) - Vanilla JavaScript 
+* [JavaScript](https://www.javascript.com/) - Vanilla JavaScript 
 * [CSS](https://developer.mozilla.org/en-US/docs/Archive/CSS3) - CSS3
 
 
